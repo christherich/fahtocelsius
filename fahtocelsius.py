@@ -1,5 +1,4 @@
 from __future__ import division
-from ast import If
 
 # INPUT
 fahrenheit = input('Fahrenheit: ')
@@ -38,3 +37,5 @@ celsiusresult = celsius * celsiusmultiplier + celsiusaddition
 
 # PRINT
 print(celsiusresult)
+
+input("Press enter to exit ;)")
